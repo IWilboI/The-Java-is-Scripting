@@ -22,4 +22,4 @@ WHEN I choose to cancel
 THEN my employee data is displayed on the page sorted alphabetically by last name, and the console shows computed and aggregated data
 
 
-## Application URL: https://iwilboi.github.io/The-Java-is-Scripting/
+## GitHub pages link: https://iwilboi.github.io/The-Java-is-Scripting/ ##
